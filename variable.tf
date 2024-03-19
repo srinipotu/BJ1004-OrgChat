@@ -1,0 +1,16 @@
+variable "aws_region" {}
+variable "vpc_cidr" {}
+#variable "IGW_name" {}
+variable "key_name" {}
+variable "public_subnet_cidr" {}
+variable "availablezone" {}
+#variable "Main_Routing_Table" {}
+variable "environment" {}
+variable "projectid" {}
+variable "projectname" {}
+variable "taskname" {}
+variable "profile" {}
+variable "backendBucket" {}
+variable "imagename" {}
+variable "instance_type" {}
+variable "trafficallow1" {}
